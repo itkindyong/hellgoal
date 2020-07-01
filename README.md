@@ -26,7 +26,8 @@ print("This is code block")
 ~~~
 ---
 
-#Emphasis
+
+# Emphasis
 *italic*
 _italic_
 
@@ -34,7 +35,7 @@ _italic_
 __bold__
 --
 
-#Link
+# Link
 1. Inline Link      
 [myBlog](https://introfor.tistory.com "introfor blog")
 
@@ -46,7 +47,7 @@ __bold__
 
 3. URL Link
 <https://ko-kr.facebook.com/>
+---
 
-
-#Image    
+# Image    
 ![Google](https://th.bing.com/th/id/OIP.oVQxMFaSW1BcBdr5Cuv1-AHaEK?w=254&h=180&c=7&o=5&dpr=1.25&pid=1.7 "google")
