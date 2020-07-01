@@ -18,6 +18,8 @@ subhead
 
 
 # Code
-'''
-This is code block
+'''python
+import sys
+
+print("This is code block")
 '''
